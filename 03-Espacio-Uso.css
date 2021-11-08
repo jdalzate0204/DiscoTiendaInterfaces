@@ -3,19 +3,12 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 103px;
+  min-height: 55px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: auto 0 0;
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
-  }
+  margin: 16px 0 0;
 } .u-section-2 {
   background-image: linear-gradient(#e9f2fa, #77aad9);
 }
